@@ -52,7 +52,6 @@ class CarReport {
 };
 
 class Report {
-
   public:
     int id;
     string member;
